@@ -7,4 +7,10 @@ public class Main {
         System.out.println("Another line2");
         System.out.println("Line 3");
     }
+
+    public static void smth1() {
+        System.out.println("Text1");
+
+    }
 }
+
